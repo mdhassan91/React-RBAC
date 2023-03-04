@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/React-router-v6-protected-routes-master
 
 # testing
 /coverage
